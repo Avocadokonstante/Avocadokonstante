@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there 💪
 
-<!--
-**Avocadokonstante/Avocadokonstante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 I'm a software developer based in southern Germany. Currently, I'm working on a full-stack project. During my studies, I focused on computer science solutions for STEM applications. I would love to work full time on molecular dynamics simulations somehow I do miss it. 😊
 
-Here are some ideas to get you started:
+🌱 I’m currently learning:
+  - Tanstack and Docker (for work)
+  - Cobol and Fortran (as refresher)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Some of my favourite skills:
+  - Python (jupyter, tensorflow)
+  - Linux
+  - Unity (VR)
+  - LaTex
